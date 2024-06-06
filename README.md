@@ -1,6 +1,8 @@
 <div align="center">
   
-
+<h1>Unfortunately, we have reached 1000 users, and the free plan cannot sustain such a large userbase, so new users cannot access the platform :-( We will be back</h1>
+<a href="https://ready-imp-69.accounts.dev/sign-in?redirect_url=https%3A%2F%2Fthreads-psi.vercel.app%2F">Visit Here</a>
+</br>
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
     <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
@@ -22,8 +24,7 @@
 2. 🔋 [Features](#features)
 3. 🤸 [Quick Start](#quick-start)
 4. 🕸️ [Snippets](#snippets)
-5. 🔗 [Links](#links)
-6. 🚀 [More](#more)
+
 
 
 
